@@ -1,0 +1,304 @@
+{
+    "nodes": [
+        {
+            "name": "Mindgeek",
+            "group": 1,
+            "id": 1,
+            "photo": "https://i.imgur.com/08IEsts.png",
+            "size": 60,
+            "info": "Mansef/Manwin/Mindgeek"
+        },
+        {
+            "name": "Bernard Bergemar",
+            "group": 1,
+            "id": 2,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": "CEO of Pornhub"
+        },
+        {
+            "name": "Andreas Alkiviades Andreou",
+            "group": 1,
+            "id": 3,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": "Director of Corporate Finance"
+        },
+        {
+            "name": "Stephane Manos",
+            "group": 1,
+            "id": 4,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Ouissam Youssef",
+            "group": 1,
+            "id": 5,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Hassan Youssef",
+            "group": 1,
+            "id": 6,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Philip Keezer",
+            "group": 1,
+            "id": 7,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Anis Baba",
+            "group": 1,
+            "id": 8,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": "Head of European Operations"
+        },
+        {
+            "name": "Bright Imperial Ltd",
+            "group": 13,
+            "id": 10,
+            "photo": "https://cdn.onlinewebfonts.com/svg/img_382390.png",
+            "size": 55,
+            "info": "Hong Kong company"
+        }
+        ,
+        {
+            "name": "Pornhub",
+            "group": 13,
+            "id": 11,
+            "photo": "https://i.imgur.com/cSsKzgK.jpg",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Valsef Capital",
+            "group": 13,
+            "id": 12,
+            "photo": "http://www.valsefgroup.com/wp-content/uploads/2014/08/logo-valsef1.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Valnet Inc",
+            "group": 13,
+            "id": 13,
+            "photo": "https://pbs.twimg.com/profile_images/699644235511783424/cdeNoZNG_400x400.jpg",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Grindstone Capital",
+            "group": 13,
+            "id": 14,
+            "photo": "https://pbs.twimg.com/profile_images/1113077909177200640/vh2IUFH7_400x400.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Hyuna Internatioal",
+            "group": 13,
+            "id": 15,
+            "photo": "https://pbs.twimg.com/profile_images/918124826950356992/RVHNV4kK_400x400.jpg",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Valsef Group",
+            "group": 13,
+            "id": 16,
+            "photo": "http://www.valsefgroup.com/wp-content/uploads/bfi_thumb/valsef-logo-v11-n7lwl44eg4tm32ai9ppde670zooarusis4p7yd5lik.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Valsoft Corporation",
+            "group": 13,
+            "id": 17,
+            "photo": "https://pbs.twimg.com/profile_images/700452481810227201/-Q5dk2XD_400x400.jpg",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Matthew Keezer",
+            "group": 13,
+            "id": 18,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Momentum Ventures",
+            "group": 13,
+            "id": 19,
+            "photo": "https://pbs.twimg.com/profile_images/636968261905571840/XA6yte5y_400x400.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Feras Antoon",
+            "group": 13,
+            "id": 20,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": ""
+        },
+        {
+            "name": "Mark Antoon",
+            "group": 13,
+            "id": 21,
+            "photo": "https://www.pinclipart.com/picdir/big/209-2098523_kids-sleeping-clip-art.png",
+            "size": 55,
+            "info": "VP of Games & Mobile apps"
+        },
+        {
+            "name": "Flighthub",
+            "group": 13,
+            "id": 22,
+            "photo": "https://pbs.twimg.com/profile_images/1199082655616323584/OzCLULgN_400x400.png",
+            "size": 55,
+            "info": ""
+        }
+
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 2
+        }
+        ,
+        {
+            "source": 2,
+            "target": 10,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 12,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 13,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 6,
+            "target": 16,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 21,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 22,
+            "value": 2
+        }
+
+
+    ]
+}
