@@ -1,0 +1,95 @@
+{
+    "nodes": [
+        {
+            "name": "Mindgeek",
+            "group": 1,
+            "id": 1,
+            "photo": "https://i.imgur.com/08IEsts.png",
+            "size": 100,
+            "info": "Mansef/Manwin"
+        },
+        {
+            "name": "Advertisements",
+            "group": 1,
+            "id": 2,
+            "photo": "https://i.imgur.com/dhZH3pd.png",
+            "size": 55,
+            "info": "TrafficJunky<br> AdultForce</li>"
+        },
+        {
+            "name": "Memberships",
+            "group": 1,
+            "id": 3,
+            "photo": "https://i.imgur.com/AAMJMLk.png",
+            "size": 55,
+            "info": "Twistys<br>MYLFS<br>Reality Kings<br>Brazzers<br>Babes<br>Men.com"
+        },
+        {
+            "name": "Premium Content",
+            "group": 1,
+            "id": 4,
+            "photo": "https://i.imgur.com/cSsKzgK.jpg",
+            "size": 55,
+            "info": "Pornhub<br>YouPorn<br>XTube<br>Thumbzilla<br>Tube8"
+        },
+        {
+            "name": "Games",
+            "group": 1,
+            "id": 5,
+            "photo": "https://i.imgur.com/iuahJrJ.png",
+            "size": 55,
+            "info": "Nutaku"
+        },
+        {
+            "name": "Mobile",
+            "group": 1,
+            "id": 6,
+            "photo": "https://i.imgur.com/sR4LpAU.png",
+            "size": 55,
+            "info": "VPNhub<br>Kode</li><br>Private Downloader<br>Rocket VPN"
+        },
+        {
+            "name": "Payments",
+            "group": 1,
+            "id": 7,
+            "photo": "https://i.imgur.com/JaVN8CW.jpg",
+            "size": 55,
+            "info": "ProBiller"
+        }
+
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 2,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 2
+        }
+
+
+    ]
+}
